@@ -661,6 +661,7 @@ public class trangchu extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new trangchu().setVisible(true);
+                System.out.println("Hes loo qoo");
             }
         });
     }
